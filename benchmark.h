@@ -1,0 +1,10 @@
+﻿//
+// Created by GUIYU on 2026/2/24.
+//
+
+#ifndef BLOCKMAPCPP_BENCHMARK_H
+#define BLOCKMAPCPP_BENCHMARK_H
+
+int main1();
+
+#endif //BLOCKMAPCPP_BENCHMARK_H
