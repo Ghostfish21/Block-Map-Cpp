@@ -1,5 +1,6 @@
 # Block-Map-Cpp
 A C++ implementation of BlockMap, a 3D voxel grid that allows multiple blocks to exist in the same voxel cell.
+This program is written by human, and the benchmark included in the project is written by ChatGPT.
 
 ## Introduction
 BlockMap stores world data in Chunks.
